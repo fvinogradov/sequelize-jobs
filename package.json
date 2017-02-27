@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "moment": "~2.7.0",
-    "sequelize": "1.7.9",
+    "sequelize": "1.7.9"
   },
   "devDependencies": {
     "sequelize": "~> 1.7.9",
